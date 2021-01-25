@@ -1,0 +1,12 @@
+artifacts/
+build/
+cache/
+coverage/
+deployments/
+node_modules/
+.coverage_artifacts/
+.coverage_contracts/
+coverage/
+coverage.json
+.env
+.vscode
